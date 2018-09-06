@@ -1,0 +1,9 @@
+#!/bin/bash
+
+alias ls="colorls"
+alias lc='ls -lA --sd'
+alias l="ls -lt"
+alias la="ls -lta"
+alias ..="cd .."
+alias cd..="cd .."
+alias g="git"

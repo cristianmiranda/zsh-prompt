@@ -1,0 +1,7 @@
+#!/bin/bash
+
+## IMPORTING ZSH CONFIG
+export BASH_PROFILE_HOME=~/Documents/Work/Workspace/prompt
+
+source "$BASH_PROFILE_HOME"/zsh/custom_zsh_profile
+source "$BASH_PROFILE_HOME"/bash/custom_bash_profile
